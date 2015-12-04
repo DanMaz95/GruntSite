@@ -1,0 +1,11 @@
+{
+  "name": "GruntSite",
+  "homepage": "https://github.com/masl0016/GruntSite",
+  "authors": [
+    "masl0016 <masl0016@algonquinlive.com>"
+  ],
+  "description": "Bower & Grunt Tasks",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT"
+}
